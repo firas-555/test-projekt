@@ -1,2 +1,2 @@
-# Hej! 👋</h1>
+# Hej! 
 Det är mitt första Github-projekt 
